@@ -1,0 +1,7 @@
+#Logs 
+logs
+*.logs
+
+#Dependency directories
+#MACOS 
+.DS_Store
